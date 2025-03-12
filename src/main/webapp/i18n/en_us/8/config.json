@@ -1,0 +1,18 @@
+{
+  "toggleAutoPlay": false,
+  "showHowToPlayOnLoad": false,
+  "autoPlayWinningNumberInterval": 0.2,
+  "autoPlayPlayerNumberInterval": 0.1,
+  "autoPlayPlayerNumberDelay": 0.75,
+  "autoPlayPlayerRowInterval": 0.4,
+  "showResultScreen": true,
+  "suppressNonWinResultPlaque": false,
+  "secondsDelayDismissResult": 0,
+  "delayBeforeTransitionToBonus": 1,
+  "collectBonusPickerDelayBeforeIntro" : 0.6,
+  "collectBonusPickerInfoDelay" : 0.25,
+  "collectBonusHoldeDelayBeforeDisable" : 1,
+  "collectBonusPickerHoldResultDelay" : 4.5,
+  "consoleEnabledDuringPlay": true
+}
+

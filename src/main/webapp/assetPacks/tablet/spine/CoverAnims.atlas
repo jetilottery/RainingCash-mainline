@@ -1,0 +1,374 @@
+
+CoverAnims.png
+size: 931,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LN_cover
+  rotate: false
+  xy: 669, 18
+  size: 168, 176
+  orig: 200, 200
+  offset: 16, 11
+  index: -1
+YN_cover
+  rotate: false
+  xy: 839, 87
+  size: 90, 107
+  orig: 91, 108
+  offset: 0, 1
+  index: -1
+glow
+  rotate: false
+  xy: 463, 9
+  size: 204, 185
+  orig: 242, 185
+  offset: 0, 0
+  index: -1
+rays-glow
+  rotate: false
+  xy: 244, 10
+  size: 217, 184
+  orig: 242, 185
+  offset: 2, 1
+  index: -1
+sparks
+  rotate: true
+  xy: 2, 2
+  size: 192, 240
+  orig: 216, 246
+  offset: 24, 1
+  index: -1
+
+CoverAnims2.png
+size: 1854,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dustHit/dustHit_00
+  rotate: false
+  xy: 156, 174
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dustHit/dustHit_01
+  rotate: true
+  xy: 1778, 285
+  size: 156, 74
+  orig: 300, 180
+  offset: 68, 49
+  index: -1
+dustHit/dustHit_02
+  rotate: true
+  xy: 1535, 12
+  size: 181, 98
+  orig: 300, 180
+  offset: 58, 36
+  index: -1
+dustHit/dustHit_03
+  rotate: false
+  xy: 1635, 76
+  size: 213, 117
+  orig: 300, 180
+  offset: 40, 24
+  index: -1
+dustHit/dustHit_04
+  rotate: true
+  xy: 1647, 206
+  size: 235, 129
+  orig: 300, 180
+  offset: 29, 19
+  index: -1
+dustHit/dustHit_05
+  rotate: true
+  xy: 1325, 185
+  size: 256, 144
+  orig: 300, 180
+  offset: 16, 12
+  index: -1
+dustHit/dustHit_06
+  rotate: true
+  xy: 2, 174
+  size: 267, 152
+  orig: 300, 180
+  offset: 11, 10
+  index: -1
+dustHit/dustHit_07
+  rotate: true
+  xy: 492, 179
+  size: 262, 156
+  orig: 300, 180
+  offset: 10, 8
+  index: -1
+dustHit/dustHit_08
+  rotate: true
+  xy: 650, 180
+  size: 261, 159
+  orig: 300, 180
+  offset: 8, 6
+  index: -1
+dustHit/dustHit_09
+  rotate: true
+  xy: 324, 179
+  size: 262, 166
+  orig: 300, 180
+  offset: 10, 4
+  index: -1
+dustHit/dustHit_10
+  rotate: true
+  xy: 156, 177
+  size: 264, 166
+  orig: 300, 180
+  offset: 8, 4
+  index: -1
+dustHit/dustHit_11
+  rotate: false
+  xy: 2, 4
+  size: 262, 168
+  orig: 300, 180
+  offset: 10, 4
+  index: -1
+dustHit/dustHit_12
+  rotate: true
+  xy: 811, 182
+  size: 259, 168
+  orig: 300, 180
+  offset: 13, 4
+  index: -1
+dustHit/dustHit_13
+  rotate: true
+  xy: 981, 182
+  size: 259, 168
+  orig: 300, 180
+  offset: 13, 4
+  index: -1
+dustHit/dustHit_14
+  rotate: true
+  xy: 1151, 184
+  size: 257, 172
+  orig: 300, 180
+  offset: 13, 4
+  index: -1
+dustHit/dustHit_15
+  rotate: false
+  xy: 768, 2
+  size: 259, 176
+  orig: 300, 180
+  offset: 13, 4
+  index: -1
+dustHit/dustHit_16
+  rotate: false
+  xy: 512, 3
+  size: 254, 174
+  orig: 300, 180
+  offset: 16, 4
+  index: -1
+dustHit/dustHit_17
+  rotate: false
+  xy: 1029, 6
+  size: 254, 174
+  orig: 300, 180
+  offset: 16, 6
+  index: -1
+dustHit/dustHit_18
+  rotate: false
+  xy: 1285, 8
+  size: 248, 174
+  orig: 300, 180
+  offset: 16, 6
+  index: -1
+dustHit/dustHit_19
+  rotate: true
+  xy: 1471, 195
+  size: 246, 174
+  orig: 300, 180
+  offset: 16, 6
+  index: -1
+dustHit/dustHit_20
+  rotate: false
+  xy: 266, 2
+  size: 244, 173
+  orig: 300, 180
+  offset: 18, 7
+  index: -1
+
+CoverAnims.jpg
+size: 1208,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Poof/Gpoof_01
+  rotate: true
+  xy: 2, 384
+  size: 380, 400
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+nonTrans/Poof/Gpoof_02
+  rotate: true
+  xy: 404, 384
+  size: 380, 400
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+nonTrans/Poof/Gpoof_03
+  rotate: true
+  xy: 806, 384
+  size: 380, 400
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+nonTrans/Poof/Gpoof_04
+  rotate: true
+  xy: 2, 2
+  size: 380, 400
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+nonTrans/Poof/Gpoof_05
+  rotate: true
+  xy: 404, 2
+  size: 380, 400
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+nonTrans/Poof/Gpoof_06
+  rotate: true
+  xy: 806, 2
+  size: 380, 400
+  orig: 380, 400
+  offset: 0, 0
+  index: -1
+
+CoverAnims3.png
+size: 1465,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sparkleBurst/sparkleBurst_10
+  rotate: true
+  xy: 2, 10
+  size: 44, 40
+  orig: 1000, 750
+  offset: 468, 353
+  index: -1
+sparkleBurst/sparkleBurst_11
+  rotate: false
+  xy: 883, 2
+  size: 105, 109
+  orig: 1000, 750
+  offset: 439, 316
+  index: -1
+sparkleBurst/sparkleBurst_12
+  rotate: false
+  xy: 1159, 3
+  size: 168, 172
+  orig: 1000, 750
+  offset: 408, 284
+  index: -1
+sparkleBurst/sparkleBurst_13
+  rotate: false
+  xy: 1227, 801
+  size: 236, 233
+  orig: 1000, 750
+  offset: 381, 261
+  index: -1
+sparkleBurst/sparkleBurst_14
+  rotate: false
+  xy: 1173, 177
+  size: 279, 275
+  orig: 1000, 750
+  offset: 360, 242
+  index: -1
+sparkleBurst/sparkleBurst_15
+  rotate: true
+  xy: 936, 744
+  size: 290, 289
+  orig: 1000, 750
+  offset: 358, 232
+  index: -1
+sparkleBurst/sparkleBurst_16
+  rotate: false
+  xy: 2, 704
+  size: 330, 330
+  orig: 1000, 750
+  offset: 342, 210
+  index: -1
+sparkleBurst/sparkleBurst_17
+  rotate: false
+  xy: 1173, 454
+  size: 288, 288
+  orig: 1000, 750
+  offset: 354, 229
+  index: -1
+sparkleBurst/sparkleBurst_18
+  rotate: false
+  xy: 885, 443
+  size: 286, 292
+  orig: 1000, 750
+  offset: 351, 218
+  index: -1
+sparkleBurst/sparkleBurst_19
+  rotate: false
+  xy: 334, 722
+  size: 306, 312
+  orig: 1000, 750
+  offset: 345, 208
+  index: -1
+sparkleBurst/sparkleBurst_20
+  rotate: false
+  xy: 2, 56
+  size: 317, 321
+  orig: 1000, 750
+  offset: 343, 211
+  index: -1
+sparkleBurst/sparkleBurst_21
+  rotate: true
+  xy: 2, 379
+  size: 323, 322
+  orig: 1000, 750
+  offset: 341, 216
+  index: -1
+sparkleBurst/sparkleBurst_22
+  rotate: true
+  xy: 642, 737
+  size: 297, 292
+  orig: 1000, 750
+  offset: 344, 234
+  index: -1
+sparkleBurst/sparkleBurst_23
+  rotate: true
+  xy: 883, 113
+  size: 297, 274
+  orig: 1000, 750
+  offset: 335, 230
+  index: -1
+sparkleBurst/sparkleBurst_24
+  rotate: true
+  xy: 607, 412
+  size: 308, 276
+  orig: 1000, 750
+  offset: 326, 227
+  index: -1
+sparkleBurst/sparkleBurst_25
+  rotate: true
+  xy: 603, 75
+  size: 310, 278
+  orig: 1000, 750
+  offset: 322, 229
+  index: -1
+sparkleBurst/sparkleBurst_26
+  rotate: true
+  xy: 326, 387
+  size: 315, 279
+  orig: 1000, 750
+  offset: 317, 231
+  index: -1
+sparkleBurst/sparkleBurst_27
+  rotate: true
+  xy: 321, 58
+  size: 319, 280
+  orig: 1000, 750
+  offset: 314, 228
+  index: -1

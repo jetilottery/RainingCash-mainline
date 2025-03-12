@@ -1,0 +1,75 @@
+
+BG.jpg
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/landscapeColour
+  rotate: true
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+nonTrans/portraitColour
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+
+BG.png
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/basegame_LandscapeText
+  rotate: false
+  xy: 814, 224
+  size: 786, 186
+  orig: 789, 186
+  offset: 2, 0
+  index: -1
+Trans/basegame_PortraitText
+  rotate: false
+  xy: 814, 412
+  size: 786, 189
+  orig: 789, 189
+  offset: 2, 0
+  index: -1
+Trans/landscapeOverlay
+  rotate: true
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+Trans/note
+  rotate: false
+  xy: 891, 166
+  size: 139, 56
+  orig: 139, 56
+  offset: 0, 0
+  index: -1
+Trans/note2
+  rotate: false
+  xy: 814, 18
+  size: 139, 67
+  orig: 150, 100
+  offset: 5, 16
+  index: -1
+Trans/note3
+  rotate: true
+  xy: 814, 87
+  size: 135, 75
+  orig: 150, 100
+  offset: 5, 10
+  index: -1
+Trans/portraitOverlay
+  rotate: false
+  xy: 814, 603
+  size: 810, 839
+  orig: 810, 899
+  offset: 0, 60
+  index: -1

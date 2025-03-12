@@ -1,0 +1,477 @@
+
+WinAnnounce.jpg
+size: 953,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/plaqueGlow
+  rotate: false
+  xy: 2, 2
+  size: 949, 449
+  orig: 949, 449
+  offset: 0, 0
+  index: -1
+
+WinAnnounce2.jpg
+size: 1790,1874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WinThing/winplaque_00
+  rotate: false
+  xy: 2, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_01
+  rotate: false
+  xy: 2, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_02
+  rotate: false
+  xy: 598, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_03
+  rotate: false
+  xy: 2, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_04
+  rotate: false
+  xy: 598, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_05
+  rotate: false
+  xy: 1194, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_06
+  rotate: false
+  xy: 2, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_07
+  rotate: false
+  xy: 598, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_08
+  rotate: false
+  xy: 1194, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_09
+  rotate: false
+  xy: 2, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_10
+  rotate: false
+  xy: 598, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_11
+  rotate: false
+  xy: 1194, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_12
+  rotate: false
+  xy: 2, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_13
+  rotate: false
+  xy: 598, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_14
+  rotate: false
+  xy: 1194, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_15
+  rotate: false
+  xy: 598, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_16
+  rotate: false
+  xy: 1194, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_17
+  rotate: false
+  xy: 1194, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+
+WinAnnounce3.jpg
+size: 1790,1874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WinThing/winplaque_18
+  rotate: false
+  xy: 2, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_19
+  rotate: false
+  xy: 2, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_20
+  rotate: false
+  xy: 598, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_21
+  rotate: false
+  xy: 2, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_22
+  rotate: false
+  xy: 598, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_23
+  rotate: false
+  xy: 1194, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_24
+  rotate: false
+  xy: 2, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_25
+  rotate: false
+  xy: 598, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_26
+  rotate: false
+  xy: 1194, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_27
+  rotate: false
+  xy: 2, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_28
+  rotate: false
+  xy: 598, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_29
+  rotate: false
+  xy: 1194, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_30
+  rotate: false
+  xy: 2, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_31
+  rotate: false
+  xy: 598, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_32
+  rotate: false
+  xy: 1194, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_33
+  rotate: false
+  xy: 598, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_34
+  rotate: false
+  xy: 1194, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_35
+  rotate: false
+  xy: 1194, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+
+WinAnnounce4.jpg
+size: 1790,1874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WinThing/winplaque_36
+  rotate: false
+  xy: 2, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_37
+  rotate: false
+  xy: 2, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_38
+  rotate: false
+  xy: 598, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_39
+  rotate: false
+  xy: 2, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_40
+  rotate: false
+  xy: 598, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_41
+  rotate: false
+  xy: 1194, 1562
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_42
+  rotate: false
+  xy: 2, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_43
+  rotate: false
+  xy: 598, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_44
+  rotate: false
+  xy: 1194, 1250
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_45
+  rotate: false
+  xy: 2, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_46
+  rotate: false
+  xy: 598, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_47
+  rotate: false
+  xy: 1194, 938
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_48
+  rotate: false
+  xy: 2, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_49
+  rotate: false
+  xy: 598, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_50
+  rotate: false
+  xy: 1194, 626
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_51
+  rotate: false
+  xy: 598, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_52
+  rotate: false
+  xy: 1194, 314
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_53
+  rotate: false
+  xy: 1194, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+
+WinAnnounce5.jpg
+size: 1874,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/WinThing/winplaque_54
+  rotate: true
+  xy: 2, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_55
+  rotate: true
+  xy: 314, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_56
+  rotate: true
+  xy: 626, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_57
+  rotate: true
+  xy: 938, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_58
+  rotate: true
+  xy: 1250, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+nonTrans/WinThing/winplaque_59
+  rotate: true
+  xy: 1562, 2
+  size: 594, 310
+  orig: 594, 310
+  offset: 0, 0
+  index: -1
+
+WinAnnounce.png
+size: 707,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Trans/losePlaque
+  rotate: false
+  xy: 2, 2
+  size: 652, 241
+  orig: 704, 321
+  offset: 41, 16
+  index: -1
+Trans/winPlaque
+  rotate: false
+  xy: 2, 245
+  size: 703, 321
+  orig: 704, 321
+  offset: 0, 0
+  index: -1

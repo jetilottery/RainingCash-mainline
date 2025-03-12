@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch17.ogg",
+    "ch17.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "YourNumberSelect_RevealAll": [
+      1050,
+      1279.6145124716556
+    ]
+  }
+}

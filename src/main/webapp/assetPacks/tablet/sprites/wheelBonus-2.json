@@ -1,0 +1,21 @@
+{"frames": {
+
+"outer-wheel.png":
+{
+	"frame": {"x":0,"y":0,"w":1222,"h":1222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":1222,"h":1222},
+	"sourceSize": {"w":1236,"h":1236},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheelBonus-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1222,"h":1222},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c78b64e22e89e9d9a982017e88f8d1a7:65aa79dde70698f7cbcd0321fe3c4a8f:735d7be9ab9d94e2d098cd0ab09eb3b7$"
+}
+}

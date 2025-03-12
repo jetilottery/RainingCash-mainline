@@ -1,0 +1,34 @@
+
+Transition.png
+size: 1444,1340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlueBleed
+  rotate: false
+  xy: 2, 814
+  size: 1440, 524
+  orig: 1440, 606
+  offset: 0, 82
+  index: -1
+Diamond
+  rotate: false
+  xy: 943, 567
+  size: 291, 245
+  orig: 300, 300
+  offset: 4, 27
+  index: -1
+WhiteBleed
+  rotate: false
+  xy: 2, 2
+  size: 939, 810
+  orig: 998, 810
+  offset: 1, 0
+  index: -1
+white
+  rotate: false
+  xy: 943, 545
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,161 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "wynosi {@minRTP}%",
+        "RTPrange": "wynosi od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot tej gry wynosi {RTP}.",
+        "subheading": "Opłata za los: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "description": "Opis",
+        "prizeValue": "Wartość wygranej",
+        "descriptionText1": "Wygrana dopasowanej liczby",
+        "descriptionText2": "Wygrana bonusu nagrody",
+        "descriptionText3": "Wygrana bonusu koła",
+        "overallChances": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {odds}.",
+        "prizeDivision": "Stopień wygranej",
+        "prizeRemaining": "Pozostało do wygrania",
+        "oddsPerPlay": "Szansa na wygraną"
+    },
+    "title": "Złote Sakwy",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Plik pomocy",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "DEMO "
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA DEMO"
+        },
+        "button_wheel": "OBRÓĆ",
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+
+        "button_try": "DEMO",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay": "AUTO",
+        "button_autoPlayCollectBonus": "AUTO",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+        "message_win":
+        {
+            "BUY": "ŁĄCZNA WYGRANA",
+            "TRY": "DZIĘKUJEMY ZA GRĘ! \nMOŻNA BYŁO WYGRAĆ "
+        },
+        "howToPlayTitle": "ZASADY GRY",
+        "bonusCard":
+        {
+            "InstantWin": "WYGRANA\nNATYCHMIASTOWA",
+            "WheelBonus": "BONUS\nKOŁA",
+            "CollectBonus": "ZŁOTA\nWALIZKA"
+        },
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Dopasuj Twoje liczby do liczb wygrywających, aby wygrać.",
+                    "text2": "{instantWin} Odkryj symbol złotych sztabek, aby zdobyć natychmiastową wygraną.",
+                    "text3": "{instantWin2X} Odkryj symbol mnożnika 2x, aby podwoić odpowiadającą mu wygraną."
+                },
+                "portrait":
+                {
+                    "text1": "Dopasuj Twoje liczby do liczb wygrywających, aby wygrać.",
+                    "text2": "{instantWin} Odkryj symbol złotych sztabek, aby zdobyć natychmiastową wygraną.",
+                    "text3": "{instantWin2X}\nOdkryj symbol mnożnika 2x, aby podwoić odpowiadającą mu wygraną."
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "{wheel} Odkryj symbol zielonego koła, aby uruchomić bonus.",
+                    "text2": "Zakręć kołem, aby rozpocząć rundę bonusową. Po zatrzymaniu koła wskaźnik wskaże\nwygraną na wewnętrznym kole oraz mnożnik wygranej na zewnętrznym kole."
+                },
+                "portrait":
+                {
+                    "text1": "{wheel} Odkryj symbol zielonego koła, aby uruchomić bonus.",
+                    "text2": "Zakręć kołem, aby rozpocząć rundę bonusową. Po zatrzymaniu koła wskaźnik wskaże\nwygraną na wewnętrznym kole oraz mnożnik wygranej na zewnętrznym kole."
+                }
+            },
+            "page3":
+            {
+                "landscape":
+                {
+                    "text1": "{collect} Odkryj symbol walizki, aby uruchomić bonus.",
+                    "text2": "Wybierz złote walizki, aby odkryć wygraną lub symbol pustej walizki,\nktóry spowoduje zakończenie rundy i zebranie łącznej wygranej."
+                },
+                "portrait":
+                {
+                    "text1": "{collect} Odkryj symbol walizki, aby uruchomić bonus.",
+                    "text2": "Wybierz złote walizki, aby odkryć wygraną lub symbol pustej walizki,\nktóry spowoduje zakończenie rundy i zebranie łącznej wygranej."
+                }
+            }
+        },
+        "winUpToText": "WYGRAJ DO {0}!",
+        "winUpToValue": "",
+        "bonus": "BONUS",
+        "bonusWin": "BONUS: {0}",
+
+        "collect": "ZBIERZ",
+        "collectBonusInfo": "ODKRYJ PUSTĄ WALIZKĘ,\nABY ZAKOŃCZYĆ BONUS I\nZEBRAĆ WYGRANĄ!",
+        "collectBonusTotalWin": "WYGRANA\nBONUSOWA",
+
+        "yourNumbers": "TWOJE LICZBY",
+        "luckyNumbers": "WYGRYWAJĄCE LICZBY",
+        "wheelBonus":
+        {
+            "winUpToLine1": "WYGRAJ DO",
+            "winUpToLine2": "MNOŻNIK WYGRANEJ",
+            "winPlaque":
+            {
+                "prize": "WYGRANA",
+                "multiplier": "MNOŻNIK",
+                "totalWin": "WYGRANA BONUSOWA"
+            }
+        }
+    }
+}

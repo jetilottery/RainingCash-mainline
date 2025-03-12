@@ -1,0 +1,69 @@
+
+BonusTriggers.png
+size: 319,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2x
+  rotate: false
+  xy: 221, 394
+  size: 74, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+5x
+  rotate: false
+  xy: 221, 338
+  size: 73, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+IWstarGlow
+  rotate: false
+  xy: 2, 191
+  size: 208, 155
+  orig: 259, 178
+  offset: 22, 2
+  index: -1
+Instant-win-2x
+  rotate: false
+  xy: 190, 2
+  size: 101, 55
+  orig: 102, 55
+  offset: 0, 0
+  index: -1
+Instant-win-symbol
+  rotate: true
+  xy: 212, 180
+  size: 156, 101
+  orig: 161, 105
+  offset: 2, 2
+  index: -1
+SwirlStars
+  rotate: false
+  xy: 2, 4
+  size: 186, 185
+  orig: 224, 226
+  offset: 6, 21
+  index: -1
+prize bonus symbol
+  rotate: true
+  xy: 190, 59
+  size: 119, 127
+  orig: 124, 132
+  offset: 2, 2
+  index: -1
+swirlBlue
+  rotate: false
+  xy: 2, 348
+  size: 217, 184
+  orig: 242, 185
+  offset: 2, 1
+  index: -1
+wheel bonus symbol
+  rotate: false
+  xy: 221, 450
+  size: 93, 82
+  orig: 125, 112
+  offset: 16, 19
+  index: -1

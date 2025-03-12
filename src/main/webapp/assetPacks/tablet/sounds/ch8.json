@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "GoldBar8": [
+      1050,
+      1390.0907029478458
+    ],
+    "PrizeBonusTransition": [
+      3100,
+      7148.616780045351
+    ],
+    "WheelMultiplierWin": [
+      11150,
+      6930.204081632654
+    ],
+    "YourNumberSelect_RevealAll": [
+      18200.000000000004,
+      1279.6145124716568
+    ]
+  }
+}

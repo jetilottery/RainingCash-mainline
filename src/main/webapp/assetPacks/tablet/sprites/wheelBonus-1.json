@@ -1,0 +1,21 @@
+{"frames": {
+
+"rim.png":
+{
+	"frame": {"x":0,"y":0,"w":1278,"h":1311},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":17,"w":1278,"h":1311},
+	"sourceSize": {"w":1350,"h":1350},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheelBonus-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1278,"h":1311},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c78b64e22e89e9d9a982017e88f8d1a7:65aa79dde70698f7cbcd0321fe3c4a8f:735d7be9ab9d94e2d098cd0ab09eb3b7$"
+}
+}

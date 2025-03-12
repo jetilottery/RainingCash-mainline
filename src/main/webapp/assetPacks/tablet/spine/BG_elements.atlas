@@ -1,0 +1,34 @@
+
+BG_elements.jpg
+size: 1586,1527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Star
+  rotate: false
+  xy: 1210, 110
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+nonTrans/points
+  rotate: false
+  xy: 814, 2
+  size: 394, 166
+  orig: 402, 166
+  offset: 8, 0
+  index: -1
+nonTrans/specs
+  rotate: true
+  xy: 2, 85
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+rays
+  rotate: true
+  xy: 814, 170
+  size: 1355, 770
+  orig: 1440, 810
+  offset: 56, 30
+  index: -1

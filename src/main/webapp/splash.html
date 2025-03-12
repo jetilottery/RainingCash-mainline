@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Splash</title>
+    <style type="text/css">
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0px auto;
+            padding: 0;
+            background: #000000;
+        }
+        
+        body {
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: 50%;
+            background-repeat: no-repeat;
+            opacity: 0;
+            transition: opacity 0.2s linear;
+        }
+        .loaded {
+            opacity: 1;
+        }
+
+        .container {
+            height: 862px;
+            width: 1440px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            /* justify-content: space-between; */
+        }
+        
+        .loader {
+            height: 630px;
+            position: relative;
+            margin: 10px 0 0px;
+        }
+        
+        .logo {
+            position: absolute;
+            right: 30px;
+            bottom: 30px;
+        }
+        
+        .spinner {
+            position: relative;
+            height: 122px;
+            width: 100%;
+            overflow: hidden;
+            visibility: hidden;
+        }
+
+        .loaded .spinner {
+            visibility: visible;
+        }
+
+        .progress {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            line-height: 122px;
+            text-align: center;
+            font-weight: bold;
+            font-family: oswald, sans-serif;
+            font-size: 24px;
+            color: #FFFFFF;
+            /* text-shadow: 0 1px 0 #222222; */
+        }
+
+        @media screen and (orientation: portrait) {
+            .container {
+                height: 1782px;
+                width: 810px;
+            }
+            .loader {
+                height: 936px;
+                margin: 320px 0 10px;
+            }
+            .loaderImage {
+                height: auto;
+                width: 774px;
+            }
+            .spinner {
+                margin: 0 0 50px 0;
+            }
+       }
+        
+        .copyright {
+            min-height: 1.2em;
+            color: #FFFFFF;
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        
+        .ring {
+            position: absolute;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .inner {
+            -webkit-transform-origin: 50%;
+            transform-origin: 50%;
+            -webkit-animation-name: rotate;
+            animation-name: rotate;
+            -webkit-animation-duration: 0.66s;
+            animation-duration: 0.66s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+            -webkit-animation-timing-function: linear;
+            animation-timing-function: linear;
+        }
+        
+        .inner-stroke, .inner-fill {
+            -webkit-transform-origin: 50%;
+            transform-origin: 50%;
+            -webkit-animation-name: yoyo;
+            animation-name: yoyo;
+            -webkit-animation-duration: .9s;
+            animation-duration: .9s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+            -webkit-animation-direction: alternate;
+            animation-direction: alternate;
+            -webkit-animation-timing-function: ease-in-out;
+            animation-timing-function: ease-in-out;
+        }
+        
+        @-webkit-keyframes rotate {
+            from {
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+        
+        @keyframes rotate {
+            from {
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+        @-webkit-keyframes yoyo {
+            from {
+                stroke-dasharray: 20 282;
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                stroke-dasharray: 188 282;
+                -webkit-transform: rotate(-120deg);
+                transform: rotate(-120deg);
+            }
+        }
+        @keyframes yoyo {
+            from {
+                stroke-dasharray: 20 282;
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                stroke-dasharray: 188 282;
+                -webkit-transform: rotate(-120deg);
+                transform: rotate(-120deg);
+            }
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="loader"></div>
+        
+        <div class="spinner">
+            <svg class="ring" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <filter id="softGlow" height="300%" width="300%" x="-65%" y="-65%">
+                        <feMorphology operator="dilate" radius="1" in="SourceAlpha" result="thicken" />
+                        <feGaussianBlur in="thicken" stdDeviation="4" result="blurred" />
+                        <feFlood flood-color="rgb(255,209,78)" result="glowColor" />
+                        <feComposite in="glowColor" in2="blurred" operator="in" result="softGlow_colored" />
+                        <feMerge>
+                            <feMergeNode in="softGlow_colored"/>
+                            <feMergeNode in="SourceGraphic"/>
+                        </feMerge>
+                    </filter>
+                </defs>
+                <circle class="st0" cx="61" cy="61" r="45" fill="none" stroke="#01fc3c" stroke-width="12" filter="url(#softGlow)" />
+                <circle class="st1" cx="61" cy="61" r="45" fill="none" stroke="#00341a" stroke-width="10"/>
+            </svg>
+            
+            <svg class="ring inner" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle class="inner-fill" cx="61" cy="61" r="45" fill="none" stroke="#ffef6e" stroke-width="8" stroke-linecap="round" stroke-dasharray="100,500"/>
+            </svg>
+            <span class="progress"></span>
+        </div>
+        
+        <small class="copyright"></small>
+    </div>
+</body>
+</html>

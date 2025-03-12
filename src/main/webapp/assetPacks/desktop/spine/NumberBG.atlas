@@ -1,0 +1,13 @@
+
+NumberBG.png
+size: 71,57
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NumBG
+  rotate: false
+  xy: 2, 2
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1

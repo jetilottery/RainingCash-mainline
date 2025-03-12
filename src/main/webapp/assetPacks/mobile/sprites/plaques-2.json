@@ -1,0 +1,30 @@
+{"frames": {
+
+"landscape_tutorialBackground":
+{
+	"frame": {"x":3,"y":3,"w":1416,"h":632},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1416,"h":632},
+	"sourceSize": {"w":1416,"h":632},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_tutorialBackground":
+{
+	"frame": {"x":3,"y":639,"w":777,"h":973},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":777,"h":973},
+	"sourceSize": {"w":777,"h":973},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1422,"h":1419},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a6a1dee1c6e2e388ff4f80a734cecb68:0b4fd98d8a5d0d16caa46d90d579b6c4:1a30e7b1bf950d59eed1501e06c5a5cd$"
+}
+}
